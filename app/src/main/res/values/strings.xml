@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Quản lý sách</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="notify_empty_user">Vui lòng nhập tên tài khoản</string>
+    <string name="notify_empty_pass">Vui lòng nhập mật khẩu</string>
+    <string name="notify_length_pass">Mật khẩu phải có ít nhất 6 kí tự</string>
+    <string name="notify_empty_name">Vui lòng nhập họ tên</string>
+    <string name="notify_empty_sdt">Vui lòng nhập số điện thoại</string>
+    <string name="notify_empty_pass2">Vui lòng nhập lại mật khẩu</string>
+    <string name="notify_same_pass">Mật khẩu không trùng nhau</string>
+    <string name="user_tontai">Username này đã tồn tại</string>
+    <string name="themusername">Đã thêm người dùng </string>
+    <string name="question_delete_user">Bạn có muốn xóa người dùng này không?</string>
+    <string name="co">Có</string>
+    <string name="khong">Không</string>
+    <string name="user_chuatontai">Username chưa tồn tại</string>
+    <string name="login">Đang đăng nhập</string>
+    <string name="saipass">Mật khẩu không đúng</string>
+    <string name="title_nguoidung">Người Dùng</string>
+    <string name="notify_same_sdt">Phải đúng dạng số điện thoại</string>
+</resources>
